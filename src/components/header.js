@@ -6,10 +6,10 @@ const Header = ({ siteTitle }) => (
   <div className="Header">
     <div className="HeaderGroup"> 
     <Link to="/"><img src={'../images/logo-designcode.svg'} width="30" /></Link>
-    <Link to="/courses">Courses</Link>
-    <Link to="/downloads">Downloads</Link>
-    <Link to="/workshops">Workshops</Link>
-    <Link to="/buy"><button>Buy</button></Link>
+    <Link to="/courses">Cursos</Link>
+    <Link to="/downloads">Descargas</Link>
+    <Link to="/workshops">Talleres</Link>
+    <Link to="/buy"><button>Comprar</button></Link>
     </div>
   </div>
 

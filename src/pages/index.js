@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Card from '../components/Card'
 
 const IndexPage = () => (
   <div>
@@ -29,6 +30,27 @@ const IndexPage = () => (
           </path>
         </svg>
       </div>
+    </div>
+    <div className="Cards">
+      <h2>11 Cursos mas proximamente</h2>
+      <div className="CardGroup">
+        <Card
+          title="React para Diseñadores"
+          text="12 secciones" 
+          image={'../images/wallpaper.jpg'}/>
+        <Card
+          title="Sistemas de Diseñado"
+          text="10 secciones" 
+          image={'../images/wallpaper2.jpg'}/>
+        <Card
+          title="Diseño de sonido"
+          text="5 secciones" 
+          image={'../images/wallpaper3.jpg'}/>
+        <Card
+          title="React Native para Diseñaddores"
+          text="10 secciones" 
+          image={'../images/wallpaper4.jpg'}/>
+        </div>
     </div>
   </div>
 )
