@@ -16,7 +16,7 @@ a {
 
 .Hero {
   background-image: url('https://cl.ly/3k1F152x261C/download/wallpaper3.jpg');
-  height: 1025px;
+  height: 970px;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -24,7 +24,7 @@ a {
 
 .HeroGroup{
   margin: 0 auto;
-  max-width: 500px;
+  max-width: 970px;
   padding: 150px 50px;
   text-align: center;
 }
