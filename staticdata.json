@@ -1,0 +1,53 @@
+{
+    "cells": [
+        {
+            "title": "Introduccion a React",
+            "image": "https://cl.ly/0Q1n3K431Y1S/download/logo-react-small.png"
+        },
+		{
+			"title": "Estilos Basicos en CSS",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Diseño Adaptativo con CSS Grid",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Interacciones y Animaciones",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Animacion SVG",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Componentes and Accesorios",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Estados y Eventos",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Componentes con estilo",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Datos Estados con JSON",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "GraphQL con Contentful",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Publicar en Netlify",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Pago con Stripe Checkout",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		}
+    ]
+
+}
